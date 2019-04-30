@@ -6,15 +6,12 @@ function ClientItemView(props) {
   const [client, setClient] = useState(null);
 
   useEffect(() => {
-    console.log(id);
-    console.log(props);
     if (props.clients.length > 0) {
       setClient(props.clients.find(e => e.id === id));
     }
   }, [props]);
 
   const renderClient = () => {
-    console.log(client);
     return (
       <React.Fragment>
         <p>
