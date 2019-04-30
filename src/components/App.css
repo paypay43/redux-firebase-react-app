@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+  text-align: center;
+}
+
+.detail-view {
+}
+
+body {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+}
