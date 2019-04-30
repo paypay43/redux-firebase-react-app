@@ -7,8 +7,11 @@ In this project, I simply created a new firebase project and fed in the json fil
 ### Other Notes
 
 Purposefully left .env in the git in order for this demonstration to work (usually would not)
+
 This project uses React Hooks
+
 First time using redux ( I felt like I could've utilized redux better)
+
 Took around 2-3 hours to complete from start
 
 ## Get Started
